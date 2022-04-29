@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N.E.O.L.I.T_FOR_Cupida
+kernel.string=ORIGIN_FOR_RMX3031
 do.devicecheck=1
 do.modules=0
 do.systemless=1
